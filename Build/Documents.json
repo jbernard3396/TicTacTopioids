@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tic Tac Topiods",
+"dataUrl": "Documents.data.unityweb",
+"wasmCodeUrl": "Documents.wasm.code.unityweb",
+"wasmFrameworkUrl": "Documents.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
